@@ -1,2 +1,5 @@
 # sample
-to take the bluetooth in our control
+msfconsole
+use exploit/multi/bluetooth/
+set RHOST <target_ip>
+run
